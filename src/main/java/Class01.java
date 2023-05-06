@@ -7,5 +7,6 @@ public class Class01 {
         //slowv3......
         //çek lokale
         //bu kadar da salak olunmaz ki
+        //salaklarla uğraşma seansı.....
     }
 }
