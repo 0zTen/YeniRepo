@@ -6,7 +6,6 @@ public class Class01 {
         //v2çalışmaları
         //slowv3......
         //çek lokale
-        //bu kadar da salak olunmaz ki
-        //salaklarla uğraşma seansı.....
+        
     }
 }
